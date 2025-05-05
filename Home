@@ -1,0 +1,6 @@
+literary-blog/
+├── index.html
+├── style.css
+├── assets/
+│   └── example.jpg  (optional image, replace with your images)
+└── README.md
