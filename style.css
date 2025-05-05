@@ -1,0 +1,83 @@
+/* General Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1, h2, h3 {
+  color: black;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+/* Header Section (Cover) */
+.cover {
+  background: black;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.cover h1 {
+  font-size: 4em;
+  margin: 0;
+}
+
+.cover p {
+  font-size: 1.5em;
+}
+
+/* Introduction Section */
+.intro {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f4f4f4;
+}
+
+.intro h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+/* 3-Column Section */
+.columns {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 20px;
+}
+
+.column {
+  width: 30%;
+  text-align: center;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+  max-width: 150px;
+  margin-bottom: 20px;
+}
+
+.column h3 {
+  font-size: 1.8em;
+  margin-bottom: 15px;
+}
+
+/* Footer Section */
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
