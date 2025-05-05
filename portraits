@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portraits | The Literary Lens</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">The Literary Lens</a></h1>
+        <nav>
+            <ul>
+                <li><a href="translations.html">Translations</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="portraits.html">Portraits</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Portraits</h2>
+        <p>Read about the authors and their stories.</p>
+        <ul>
+            <li><a href="#">Portrait of Franz Kafka</a></li>
+            <li><a href="#">Portrait of Haruki Murakami</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2025 The Literary Lens — All rights reserved.</p>
+    </footer>
+</body>
+</html>
